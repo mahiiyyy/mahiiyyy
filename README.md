@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/animated-terminal-green.svg" width="100%" alt="Animated green terminal portfolio with privacy-preserving dot silhouette and Mahi Rajput name" />
+<h1>Hi, I'm Mahi Rajput 👋</h1>
 
+<h3>Full-Stack Developer</h3>
 
-
-**Full-Stack Developer** · Building digital experiences from idea to deployment
+<p>Building clean, responsive web applications from frontend to backend.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahii-rajput)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajput0710@gmail.com)
