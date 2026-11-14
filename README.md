@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ec4899,35:8b5cf6,70:06b6d4,100:22c55e&text=Hey%2C%20I%27m%20Mahi%20%E2%9C%A8&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Design%20minded.%20Code%20driven.%20Always%20curious.&descAlignY=59&animation=fadeIn" width="100%" alt="Colorful creative developer banner introducing Mahi" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1020,55:171B39,100:312E81&text=Mahi%20Rajput&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20REACT%20%7C%20NODE.JS%20%7C%20MONGODB&descAlignY=66&descSize=15" width="100%" alt="Mahi Rajput, Full-Stack Developer portfolio banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;Frontend+%2B+UI%2FUX+Enthusiast+%F0%9F%8E%A8;Turning+ideas+into+experiences+%E2%9C%A8" alt="Animated introduction showing developer interests" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1100&color=8B9CFF&center=true&vCenter=true&width=650&lines=Building+modern+full-stack+web+applications;From+beautiful+UIs+to+powerful+APIs;Design.+Develop.+Deploy." alt="Animated full-stack developer introduction" />
 
-### A little creativity, a lot of code, and endless curiosity ✨
+### Full-Stack Developer | Building digital experiences from idea to deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahii-rajput)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajput0710@gmail.com)
