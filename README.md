@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1020,55:171B39,100:312E81&text=Mahi%20Rajput&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20REACT%20%7C%20NODE.JS%20%7C%20MONGODB&descAlignY=66&descSize=15" width="100%" alt="Mahi Rajput, Full-Stack Developer portfolio banner" />
+<img src="./assets/terminal-portfolio.svg" width="100%" alt="Terminal portfolio for Mahi Rajput, full-stack developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1100&color=8B9CFF&center=true&vCenter=true&width=650&lines=Building+modern+full-stack+web+applications;From+beautiful+UIs+to+powerful+APIs;Design.+Develop.+Deploy." alt="Animated full-stack developer introduction" />
+**Full-Stack Developer** · React · Node.js · Express · MongoDB · PostgreSQL
 
-### Full-Stack Developer | Building digital experiences from idea to deployment
-
+[![Projects](https://img.shields.io/badge/Explore-Projects-0f766e?style=for-the-badge&logo=github&logoColor=white)](#-things-ive-built)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahii-rajput)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajput0710@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiiyyy?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajput0710@gmail.com)
 
 </div>
 
