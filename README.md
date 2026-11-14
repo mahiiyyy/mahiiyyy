@@ -67,10 +67,12 @@ I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahiiyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub activity statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public GitHub repositories" height="165" />
+[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiiyyy?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View-GitHub%20Activity-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiiyyy?tab=overview)
 
 <img src="https://streak-stats.demolab.com?user=mahiiyyy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<sub>Explore my repositories for current project languages and contribution activity.</sub>
 
 </div>
 
