@@ -1,84 +1,81 @@
-<h1 align="center">Hi there, I'm Mahi Rajput 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Developer | MERN Stack | B.Tech CSE-BS @ Oriental Institute of Science and Technology
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:4338ca,100:06b6d4&text=Mahi%20Rajput&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=59&animation=fadeIn" width="100%" alt="Mahi Rajput profile banner" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahii-rajput">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahirajput0710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Building thoughtful web experiences, from interface to infrastructure.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahii-rajput)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajput0710@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiiyyy?tab=repositories)
 
-### 🚀 About Me
+</div>
 
-- 🎓 B.Tech in Computer Science & Business Systems (2023 – 2027)
-- 💻 I build full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**
-- 🔐 Interested in authentication systems, RESTful API design, and clean backend architecture
-- 📝 Published research on blockchain-based credential verification using NFTs
-- 🌱 Currently sharpening my Data Structures & Algorithms and exploring TypeScript
-- 📫 Reach me at **mahirajput0710@gmail.com**
+## ✦ About me
 
----
+I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems** student at **Oriental Institute of Science and Technology** (2023–2027). I enjoy turning ideas into polished, practical applications—with a particular interest in **frontend engineering, backend APIs, and thoughtful UI/UX**.
 
-### 🛠️ Tech Stack
+- 🔭 Building full-stack projects and exploring AI-powered developer tools
+- 🧠 Improving my problem-solving skills with **Java and DSA**
+- 🛠️ Working with **React, Node.js, Express, MongoDB, and PostgreSQL**
+- 🎯 Open to **Frontend, Full-Stack, and Software Engineering internships**
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+## ⚡ Toolbox
 
+**Languages & frontend**
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+**Backend & databases**
 
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens)
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+**Workflow & tools**
 
----
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma)
 
-### 📌 Featured Projects
+## 🚀 Selected work
 
-**[OneeCart](https://github.com/mahiiyyy/OneeCart) — E-Commerce Platform with AI Chatbot**
-Full-stack MERN e-commerce app with JWT authentication, an AI chatbot for product recommendations, an admin dashboard for CRUD/order management, and Cloudinary-powered image uploads.
-`React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Cloudinary` `Tailwind CSS`
+| Project | What it does | Stack |
+| --- | --- | --- |
+| 🛡️ **[CyberLens](https://github.com/mahiiyyy/CyberLens)** | Cybersecurity-focused project exploring email threat detection and analysis. | Explore the repository for implementation details |
+| 🛒 **[OneeCart](https://github.com/mahiiyyy/Onee-Cart)** | Full-stack e-commerce experience with product management and a responsive storefront. | React · Node.js · Express · MongoDB |
+| ☁️ **[Weather App](https://github.com/mahiiyyy/skylar-weather-app)** | Weather-focused web app. | Explore the repository for implementation details |
 
-**[WeatherWeb](https://github.com/mahiiyyy/WeatherWeb) — Weather Forecast App**
-A React app that fetches and displays current weather conditions by city/location search, using a live weather API for real-time data.
-`React.js` `OpenWeather API` `JavaScript` `CSS3`
+> I care about projects that are not only functional, but also intuitive and enjoyable to use.
 
+## 📈 GitHub activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahiiyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub activity statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiiyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public GitHub repositories" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=mahiiyyy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiiyyy&show_icons=true&theme=default" alt="Mahi's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahiiyyy&theme=default" alt="Mahi's GitHub Streak" height="165"/>
-</p>
+**Have an interesting project or opportunity? I'd love to connect.**
 
----
+[Let's talk](mailto:mahirajput0710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahii-rajput) · [Repositories](https://github.com/mahiiyyy?tab=repositories)
 
-<p align="center"><i>Open to Software Engineering, Full-Stack, and Frontend Developer internship opportunities.</i></p>
+<sub>Designed with curiosity, built with code ✦</sub>
+
+</div>
