@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:4338ca,100:06b6d4&text=Mahi%20Rajput&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=59&animation=fadeIn" width="100%" alt="Mahi Rajput profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ec4899,35:8b5cf6,70:06b6d4,100:22c55e&text=Hey%2C%20I%27m%20Mahi%20%E2%9C%A8&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Design%20minded.%20Code%20driven.%20Always%20curious.&descAlignY=59&animation=fadeIn" width="100%" alt="Colorful creative developer banner introducing Mahi" />
 
-### Building thoughtful web experiences, from interface to infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;Frontend+%2B+UI%2FUX+Enthusiast+%F0%9F%8E%A8;Turning+ideas+into+experiences+%E2%9C%A8" alt="Animated introduction showing developer interests" />
+
+### A little creativity, a lot of code, and endless curiosity ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahii-rajput)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajput0710@gmail.com)
@@ -10,7 +12,11 @@
 
 </div>
 
-## ✦ About me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahiiyyy&label=Profile%20visits&color=8b5cf6&style=flat-square" alt="Profile visit counter" />
+</p>
+
+## 🌈 The person behind the pixels
 
 I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems** student at **Oriental Institute of Science and Technology** (2023–2027). I enjoy turning ideas into polished, practical applications—with a particular interest in **frontend engineering, backend APIs, and thoughtful UI/UX**.
 
@@ -19,7 +25,7 @@ I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems*
 - 🛠️ Working with **React, Node.js, Express, MongoDB, and PostgreSQL**
 - 🎯 Open to **Frontend, Full-Stack, and Software Engineering internships**
 
-## ⚡ Toolbox
+## 🧩 My creative toolkit
 
 **Languages & frontend**
 
@@ -47,7 +53,7 @@ I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems*
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma)
 
-## 🚀 Selected work
+## 🎮 Things I've built
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -55,9 +61,9 @@ I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems*
 | 🛒 **[OneeCart](https://github.com/mahiiyyy/Onee-Cart)** | Full-stack e-commerce experience with product management and a responsive storefront. | React · Node.js · Express · MongoDB |
 | ☁️ **[Weather App](https://github.com/mahiiyyy/skylar-weather-app)** | Weather-focused web app. | Explore the repository for implementation details |
 
-> I care about projects that are not only functional, but also intuitive and enjoyable to use.
+> My favorite kind of project? One that feels as good to use as it does to build. ✨
 
-## 📈 GitHub activity
+## ✨ My coding universe
 
 <div align="center">
 
@@ -72,10 +78,10 @@ I'm a **full-stack developer** and B.Tech **Computer Science & Business Systems*
 
 <div align="center">
 
-**Have an interesting project or opportunity? I'd love to connect.**
+**Let's build something that makes people say “whoa.” 🚀**
 
 [Let's talk](mailto:mahirajput0710@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahii-rajput) · [Repositories](https://github.com/mahiiyyy?tab=repositories)
 
-<sub>Designed with curiosity, built with code ✦</sub>
+<sub>Made with 💜, curiosity & way too many browser tabs</sub>
 
 </div>
