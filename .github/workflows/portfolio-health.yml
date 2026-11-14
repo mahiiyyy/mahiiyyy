@@ -1,0 +1,36 @@
+name: Portfolio health check
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check featured GitHub repositories
+        shell: bash
+        run: |
+          set -euo pipefail
+          urls=(
+            "https://github.com/mahiiyyy/CyberLens"
+            "https://github.com/mahiiyyy/Onee-Cart"
+            "https://github.com/mahiiyyy/skylar-weather-app"
+          )
+          echo "## Portfolio health check" >> "$GITHUB_STEP_SUMMARY"
+          failed=0
+          for url in "${urls[@]}"; do
+            status=$(curl --location --silent --output /dev/null --write-out '%{http_code}' --max-time 15 "$url") || status="000"
+            if [[ "$status" == "200" ]]; then
+              echo "- ✅ $url" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "- ❌ $url (HTTP $status)" >> "$GITHUB_STEP_SUMMARY"
+              failed=1
+            fi
+          done
+          exit "$failed"
